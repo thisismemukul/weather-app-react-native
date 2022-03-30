@@ -5,7 +5,7 @@ This project is made in react-native with OpenWeatherMap and generate an API key
 This is a sample repo for weather-app in react-native created by [Mukul Saini](https://github.com/thisismemukul). It is for beginners looking to get started quickly on a new weather app project using the React-Native.
 
 <p align="center">
-<img src="https://github.com/thisismemukul/weather-android-ios-app/blob/main/public/demo.gif" alt="React-Native Weather App" title="React-Native Weather App clone show gif" width="500"/>
+<img src="https://github.com/thisismemukul/weather-app-react-native/blob/main/assets/demo.gif" alt="React-Native Weather App" title="React-Native Weather App clone show gif" width="500"/>
 </p>
 Implementations of Weather API in APP
 <h4>* Tech Stack used:</h4>
